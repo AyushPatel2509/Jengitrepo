@@ -1,2 +1,2 @@
-print("Hello, Ayush! Nishtha anisha patel")
+print("Hello, Ayush! Nishtha anisha patel"
 
